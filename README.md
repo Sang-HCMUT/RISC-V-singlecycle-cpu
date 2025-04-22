@@ -13,6 +13,12 @@ This project implements a 32-bit single-cycle CPU based on the RISC-V RV32I inst
   - ROM for instruction memory
   - RAM for data memory and peripherals
 
+## 🧭 Block Diagram
+
+![image](https://github.com/user-attachments/assets/6576a3b5-419f-4294-901a-4ade5528e605)
+
+
+
 ## 🧪 Simulation
 
 Testbenches are provided in the `sim/` directory. Run simulations using tools like ModelSim, Verilator, or Quartus.
