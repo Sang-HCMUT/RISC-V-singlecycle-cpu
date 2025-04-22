@@ -12,9 +12,6 @@ This project implements a 32-bit single-cycle CPU based on the RISC-V RV32I inst
 - Two separate memory modules:
   - ROM for instruction memory
   - RAM for data memory and peripherals
- 
-## 🗂 Project Structure
-src/ # SystemVerilog source files sim/ # Testbenches and simulation outputs doc/ # Reports and design documentation synthesis/ # FPGA synthesis constraints and setup platform/ # Board-specific config (e.g., DE2 pin constraints)
 
 ## 🧪 Simulation
 
