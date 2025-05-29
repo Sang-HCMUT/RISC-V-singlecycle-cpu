@@ -26,3 +26,6 @@ Testbenches are provided in the `sim/` directory. Run simulations using tools li
 ## 🖥️ Target Platform
 
 - DE2 Board (Cyclone II EP2C35F672C6)
+
+## LICENSE
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
